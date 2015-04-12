@@ -1,3 +1,6 @@
+## Thanh Vien Trong Nhom:
+	Lam Duc Trung
+	Dinh Van Vu
 ## Game Ai La Trieu Phu
     * Xay dung game Ai La Trieu Phu
       - Game Ai La Trieu Phu duoc xay dung voi 15 cau hoi voi 15 muc do kho tu thap den cao
