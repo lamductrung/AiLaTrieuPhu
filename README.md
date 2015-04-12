@@ -315,3 +315,11 @@
 		LANGUAGE plpgsql;
 
 		SELECT searchquestion('2');
+
+	6.2 cap nhat noi dung
+	UPDATE questions
+	SET name = '1 + 1',a = 2,b = 1, c = 3, d = 4
+	WHERE id = 1;
+
+	6.3 xoa cau hoi
+	DELETE FROM questions WHERE id = 1;
