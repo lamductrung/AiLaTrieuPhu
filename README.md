@@ -1,14 +1,3 @@
-# Welcome to MkDocs
-
-For full documentation visit [mkdocs.org](http://mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
-
 ## Game Ai La Trieu Phu
     * Xay dung game Ai La Trieu Phu
       - Game Ai La Trieu Phu duoc xay dung voi 15 cau hoi voi 15 muc do kho tu thap den cao
